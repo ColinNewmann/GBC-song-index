@@ -1,0 +1,53 @@
+{
+  "order": 30,
+  "title": "誰にもなれない私だから",
+  "artist": "トゲナシトゲアリ",
+  "kind": "ending",
+  "context": "電視動畫的片尾主題曲。試聽使用官方發布的無字幕片尾。",
+  "spoiler": false,
+  "listenUrl": "https://www.youtube.com/watch?v=Go6wsJwKf4c",
+  "sourceUrl": "https://girls-band-cry.com/news/post-113.html",
+  "credits": {
+    "lyrics": "カイザー恵理菜",
+    "composition": "遊部優介",
+    "arrangement": "玉井健二、南田健吾",
+    "producer": "玉井健二",
+    "sourceUrl": "https://news.agehasprings.com/news/4105/"
+  },
+  "digital": {
+    "date": "2024-04-13",
+    "url": "https://togenashitogeari.lnk.to/im_nobody",
+    "sourceUrl": "https://news.agehasprings.com/news/3977/"
+  },
+  "releases": [
+    {
+      "title": "7th Single「誰にもなれない私だから」",
+      "date": "2024-05-22",
+      "track": 1,
+      "sourceUrl": "https://girls-band-cry.com/goods/post-23.html"
+    },
+    {
+      "title": "2nd Album「棘ナシ」",
+      "date": "2024-08-28",
+      "track": 2,
+      "sourceUrl": "https://girls-band-cry.com/goods/post-42.html"
+    }
+  ],
+  "versions": [
+    {
+      "title": "伴奏版",
+      "detail": "第 7 張單曲第 4 曲",
+      "sourceUrl": "https://girls-band-cry.com/goods/post-23.html"
+    },
+    {
+      "title": "「協奏の響」演唱會版本",
+      "detail": "官方 YouTube 現場影片",
+      "sourceUrl": "https://www.youtube.com/watch?v=0qiqkY8fSvM"
+    }
+  ],
+  "cover": {
+    "release": "7th Single「誰にもなれない私だから」",
+    "imageUrl": "https://girls-band-cry.com/wp-content/uploads/2024/04/darenimo_FIX.jpg",
+    "sourceUrl": "https://girls-band-cry.com/goods/post-23.html"
+  }
+}

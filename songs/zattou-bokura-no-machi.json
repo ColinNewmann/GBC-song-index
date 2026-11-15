@@ -1,0 +1,53 @@
+{
+  "order": 10,
+  "title": "雑踏、僕らの街",
+  "artist": "トゲナシトゲアリ",
+  "kind": "opening",
+  "context": "電視動畫的片頭主題曲。試聽使用官方發布的無字幕片頭。",
+  "spoiler": false,
+  "listenUrl": "https://www.youtube.com/watch?v=YDLafQ-Rg-k",
+  "sourceUrl": "https://girls-band-cry.com/news/post-106.html",
+  "credits": {
+    "lyrics": "大濱健悟",
+    "composition": "大濱健悟",
+    "arrangement": "玉井健二、大濱健悟",
+    "producer": "玉井健二",
+    "sourceUrl": "https://news.agehasprings.com/news/4105/"
+  },
+  "digital": {
+    "date": "2024-04-06",
+    "url": "https://togenashitogeari.lnk.to/wrong_world",
+    "sourceUrl": "https://news.agehasprings.com/news/3951/"
+  },
+  "releases": [
+    {
+      "title": "6th Single「雑踏、僕らの街」",
+      "date": "2024-05-22",
+      "track": 1,
+      "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+    },
+    {
+      "title": "2nd Album「棘ナシ」",
+      "date": "2024-08-28",
+      "track": 1,
+      "sourceUrl": "https://girls-band-cry.com/goods/post-42.html"
+    }
+  ],
+  "versions": [
+    {
+      "title": "伴奏版",
+      "detail": "第 6 張單曲第 4 曲",
+      "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+    },
+    {
+      "title": "「薄明の序奏」演唱會版本",
+      "detail": "《棘ナシ》初回限定盤 Blu-ray 收錄",
+      "sourceUrl": "https://girls-band-cry.com/goods/post-42.html"
+    }
+  ],
+  "cover": {
+    "release": "6th Single「雑踏、僕らの街」",
+    "imageUrl": "https://girls-band-cry.com/wp-content/uploads/2024/04/GBC_zattou.png",
+    "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+  }
+}

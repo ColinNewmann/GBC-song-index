@@ -1,0 +1,58 @@
+{
+  "order": 20,
+  "title": "空の箱",
+  "artist": "トゲナシトゲアリ（井芹仁菜、河原木桃香版）",
+  "kind": "insert",
+  "context": "電視動畫第 1 話插曲，收錄井芹仁菜與河原木桃香的版本。",
+  "spoiler": false,
+  "listenUrl": "https://www.youtube.com/watch?v=pA-pzhQQFBA",
+  "sourceUrl": "https://girls-band-cry.com/news/post-106.html",
+  "credits": {
+    "lyrics": "松原さらり",
+    "composition": "南田健吾",
+    "arrangement": "玉井健二、南田健吾",
+    "producer": "玉井健二",
+    "sourceUrl": "https://news.agehasprings.com/news/4105/"
+  },
+  "digital": {
+    "date": "2024-04-06",
+    "url": "https://togenashitogeari.lnk.to/void",
+    "sourceUrl": "https://news.agehasprings.com/news/3951/"
+  },
+  "releases": [
+    {
+      "title": "6th Single「雑踏、僕らの街」",
+      "date": "2024-05-22",
+      "track": 2,
+      "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+    },
+    {
+      "title": "2nd Album「棘ナシ」",
+      "date": "2024-08-28",
+      "track": 3,
+      "sourceUrl": "https://girls-band-cry.com/goods/post-42.html"
+    }
+  ],
+  "versions": [
+    {
+      "title": "ダイヤモンドダスト版（河原木桃香主唱）",
+      "detail": "第 6 張單曲第 3 曲",
+      "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+    },
+    {
+      "title": "井芹仁菜與河原木桃香版的伴奏",
+      "detail": "第 6 張單曲第 5 曲",
+      "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+    },
+    {
+      "title": "河原木桃香第 1 話自彈自唱版",
+      "detail": "第 7 張單曲第 3 曲",
+      "sourceUrl": "https://girls-band-cry.com/goods/post-23.html"
+    }
+  ],
+  "cover": {
+    "release": "6th Single「雑踏、僕らの街」",
+    "imageUrl": "https://girls-band-cry.com/wp-content/uploads/2024/04/GBC_zattou.png",
+    "sourceUrl": "https://girls-band-cry.com/goods/post-22.html"
+  }
+}
